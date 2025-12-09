@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.senai.lastdance.models.Usuario;
 import br.com.senai.lastdance.services.UsuarioService;
-
+import org.springframework.web.bind.annotation.RequestBody;
 
 
 
