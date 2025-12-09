@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.senai.lastdance.models.Endereco;
 import br.com.senai.lastdance.services.EnderecoService;
-import org.springframework.web.bind.annotation.Requestbody;
+import org.springframework.web.bind.annotation.RequestBody;
 
 
 @RestController
